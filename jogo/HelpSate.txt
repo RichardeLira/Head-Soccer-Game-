@@ -1,0 +1,15 @@
+Para executar o jogo faca os seguintes passos: 
+1.Clique em jogar
+2.Voce vai ser levado a tela de criacao, edicao e exclusao de personagens
+3.Se deseja criar, aperte no botao criar e na nova tela selecione o campo para digitar
+4.Digite o nome e aperte salvar
+5.Para editar primeiro selecione o personagem criado com o botao enter e clique em editar
+6.Para editar o nome visto no passo 5, selecione o campo de texto com o botao enter e escreva
+7.Para excluir selecione primeiro o persongem e depois va em excluir
+8.Com o personagem criado, selecione o personagem e clique em jogar
+9.Se deseja criar uma partida, aperte em criar 
+10.Se deseja entrar, clique em entrar. 
+11.Criando voce deve digitar o IP correto da maquina que deseja se conectar
+12.Digitado corretamente, voce sera conectado e poderar jogar.
+13.Para jogar, se mova com: "A,W,D" ou "Seta esquerda, seta para cima, seta para direita"
+14.Divirta-se
